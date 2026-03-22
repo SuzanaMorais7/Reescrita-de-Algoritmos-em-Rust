@@ -2,7 +2,7 @@
 Disciplina: Estruturas de Dados e Análise de Algoritmos Aula: 04 – Implementação de Algoritmos em Rust Professor: Alexandre de Oliveira
 
 Reescrita de Algoritmos em Rust
-NOME: Suzana Patricia Morais Pereira
+NOME: Suzana
 RA: 124115854
 
 
