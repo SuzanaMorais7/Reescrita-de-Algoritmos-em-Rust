@@ -26,4 +26,10 @@ Tem dois loops, um dentro do outro. Isso faz o número de operações crescer mu
 
 //Ex5: 
 Complexidade: O(n²)
-começa com o número 1 e vai multiplicando por 2 até chegar perto do número informado.
+Primeiro ele mostra todos os números da lista. Depois ele mostra todos os pares possíveis entre eles.
+Tem um loop simples e depois dois loops juntos. O mais pesado é o de dois loops, então o resultado final fica O(n²).
+
+//Ex6:
+Complexidade: O(log n)
+Começa com o número 1 e vai multiplicando por 2 até chegar perto do número informado.
+O valor dobra a cada passo, então não precisa de muitas repetições. Por isso cresce devagar.
